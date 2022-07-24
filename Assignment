@@ -1,0 +1,63 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "# \"My Jupyter Notebook on IBM Data Science Experience"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "**David A Jennings**  \n",
+    "I have been in IT for thirty year! I am a Network Operations Director"
+]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "*I am interested in data science because when done correctly using data can help better decisions*"
+]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "### The code will do the fibonacci sequence"
+   ]
+  },
+  {
+"cell_type": "code",
+   "execution_count": 11,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1\n",
+      "1\n",
+      "2\n",
+      "3\n",
+      "5\n",
+      "8\n",
+      "13\n"
+     ]
+    }
+   ],
+   "source": [
+    "i = 0\n",
+    "j = 1\n",
+    "n = int \n",
+    "while(j<20):\n",
+    "    print(j)\n",
+    "    n = i\n",
+    "    i = j\n",
+    "    j = j + n\n",
+    "\n",
+    "   "
+   ]
+  },
